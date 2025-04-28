@@ -1,7 +1,25 @@
-# Red-Bus-Clone
-RedBus Clone is a web application that simulates the functionalities of the popular bus booking platform, RedBus. This project is currently a work in progress, with the home page designed using HTML and CSS. Future updates will include full functionality for searching and booking bus tickets.
+🚌 RedBus Clone
+This is a frontend clone of the popular bus ticket booking platform RedBus, built using HTML, CSS, and JavaScript.
+It replicates the main design and functionality of the original RedBus website, focusing on responsive layout and smooth user experience.
 
-Technologies Used 
-Frontend:
-HTML
-CSS
+✨ Features
+Home page similar to RedBus
+
+Search buses between the source and the destination
+
+Beautiful responsive design (works on mobile, tablet, and desktop)
+
+Attractive banners and offers section
+
+Simple form validation (with JavaScript)
+
+Smooth transitions and hover effects
+
+📂 Technologies Used
+HTML5 - For basic webpage structure
+
+CSS3 - For styling, animations, and responsiveness
+
+JavaScript - For basic interactivity and form handling
+
+Made by Shruti Sawant
